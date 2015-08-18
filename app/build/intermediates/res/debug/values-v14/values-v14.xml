@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Public/Symbol%20EMDK%20for%20Android/v3.1/Samples/ch13_TaskList/app/src/main/res/values-v14/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light"/>
+</resources>
